@@ -1,0 +1,4 @@
+timestamp,transaction_number,start_condition,address_hex,rw,address_ack,register_or_first_byte,data_bytes_hex,data_acks,stop_condition,protocol_error
+2026-07-13 08:20:14,1,True,0x50,WRITE,ACK,0x00,"['0x00', '0x99']","[True, True]",True,
+2026-07-13 08:20:14,2,True,0x48,READ,ACK,0xFF,"['0xFF', '0xFF']","[True, False]",True,
+2026-07-13 08:20:14,3,True,0x7F,WRITE,NACK,N/A,[],[],True,Address NACK - no device responded

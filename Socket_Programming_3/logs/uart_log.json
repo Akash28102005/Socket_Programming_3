@@ -1,0 +1,189 @@
+[
+  {
+    "frame_number": 0,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'L'",
+    "binary": "00011001011",
+    "hex_value": "0x4C",
+    "ascii_char": "L",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 1,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'o'",
+    "binary": "01111011001",
+    "hex_value": "0x6F",
+    "ascii_char": "o",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Frame error: Stop bit not detected (expected 1)"
+  },
+  {
+    "frame_number": 2,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'g'",
+    "binary": "01110011011",
+    "hex_value": "0x67",
+    "ascii_char": "g",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 3,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "' '",
+    "binary": "00000010011",
+    "hex_value": "0x20",
+    "ascii_char": " ",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 4,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'t'",
+    "binary": "00010111001",
+    "hex_value": "0x74",
+    "ascii_char": "t",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 5,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'h'",
+    "binary": "00001011011",
+    "hex_value": "0x68",
+    "ascii_char": "h",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 6,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'i'",
+    "binary": "01001011001",
+    "hex_value": "0x69",
+    "ascii_char": "i",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 7,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'s'",
+    "binary": "01100111011",
+    "hex_value": "0x73",
+    "ascii_char": "s",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 8,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "' '",
+    "binary": "00000010011",
+    "hex_value": "0x20",
+    "ascii_char": " ",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 9,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'m'",
+    "binary": "01011011011",
+    "hex_value": "0x6D",
+    "ascii_char": "m",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 10,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'e'",
+    "binary": "01010011001",
+    "hex_value": "0x65",
+    "ascii_char": "e",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 11,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'s'",
+    "binary": "01100111011",
+    "hex_value": "0x73",
+    "ascii_char": "s",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 1, received 0"
+  },
+  {
+    "frame_number": 12,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'s'",
+    "binary": "01100111011",
+    "hex_value": "0x73",
+    "ascii_char": "s",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 13,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'a'",
+    "binary": "01000011011",
+    "hex_value": "0x61",
+    "ascii_char": "a",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 1, received 0"
+  },
+  {
+    "frame_number": 14,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'g'",
+    "binary": "01110011011",
+    "hex_value": "0x67",
+    "ascii_char": "g",
+    "parity_status": "FAIL",
+    "checksum_status": "N/A",
+    "frame_status": "FAIL: Parity error: expected 0, received 1"
+  },
+  {
+    "frame_number": 15,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'e'",
+    "binary": "01010011001",
+    "hex_value": "0x65",
+    "ascii_char": "e",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  },
+  {
+    "frame_number": 16,
+    "timestamp": "2026-07-13 08:15:55",
+    "char": "'!'",
+    "binary": "01000010001",
+    "hex_value": "0x21",
+    "ascii_char": "!",
+    "parity_status": "OK",
+    "checksum_status": "N/A",
+    "frame_status": "OK"
+  }
+]

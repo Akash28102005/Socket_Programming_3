@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-07-13 08:20:14",
+    "transaction_number": 1,
+    "start_condition": true,
+    "address_hex": "0x50",
+    "rw": "WRITE",
+    "address_ack": "ACK",
+    "register_or_first_byte": "0x00",
+    "data_bytes_hex": "['0x00', '0x99']",
+    "data_acks": "[True, True]",
+    "stop_condition": true,
+    "protocol_error": ""
+  },
+  {
+    "timestamp": "2026-07-13 08:20:14",
+    "transaction_number": 2,
+    "start_condition": true,
+    "address_hex": "0x48",
+    "rw": "READ",
+    "address_ack": "ACK",
+    "register_or_first_byte": "0xFF",
+    "data_bytes_hex": "['0xFF', '0xFF']",
+    "data_acks": "[True, False]",
+    "stop_condition": true,
+    "protocol_error": ""
+  },
+  {
+    "timestamp": "2026-07-13 08:20:14",
+    "transaction_number": 3,
+    "start_condition": true,
+    "address_hex": "0x7F",
+    "rw": "WRITE",
+    "address_ack": "NACK",
+    "register_or_first_byte": "N/A",
+    "data_bytes_hex": "[]",
+    "data_acks": "[]",
+    "stop_condition": true,
+    "protocol_error": "Address NACK - no device responded"
+  }
+]

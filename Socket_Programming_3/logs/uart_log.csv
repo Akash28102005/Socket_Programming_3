@@ -1,0 +1,18 @@
+frame_number,timestamp,char,binary,hex_value,ascii_char,parity_status,checksum_status,frame_status
+0,2026-07-13 08:15:55,'L',00011001011,0x4C,L,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+1,2026-07-13 08:15:55,'o',01111011001,0x6F,o,OK,N/A,FAIL: Frame error: Stop bit not detected (expected 1)
+2,2026-07-13 08:15:55,'g',01110011011,0x67,g,OK,N/A,OK
+3,2026-07-13 08:15:55,' ',00000010011,0x20, ,OK,N/A,OK
+4,2026-07-13 08:15:55,'t',00010111001,0x74,t,OK,N/A,OK
+5,2026-07-13 08:15:55,'h',00001011011,0x68,h,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+6,2026-07-13 08:15:55,'i',01001011001,0x69,i,OK,N/A,OK
+7,2026-07-13 08:15:55,'s',01100111011,0x73,s,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+8,2026-07-13 08:15:55,' ',00000010011,0x20, ,OK,N/A,OK
+9,2026-07-13 08:15:55,'m',01011011011,0x6D,m,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+10,2026-07-13 08:15:55,'e',01010011001,0x65,e,OK,N/A,OK
+11,2026-07-13 08:15:55,'s',01100111011,0x73,s,FAIL,N/A,"FAIL: Parity error: expected 1, received 0"
+12,2026-07-13 08:15:55,'s',01100111011,0x73,s,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+13,2026-07-13 08:15:55,'a',01000011011,0x61,a,FAIL,N/A,"FAIL: Parity error: expected 1, received 0"
+14,2026-07-13 08:15:55,'g',01110011011,0x67,g,FAIL,N/A,"FAIL: Parity error: expected 0, received 1"
+15,2026-07-13 08:15:55,'e',01010011001,0x65,e,OK,N/A,OK
+16,2026-07-13 08:15:55,'!',01000010001,0x21,!,OK,N/A,OK

@@ -1,0 +1,6 @@
+timestamp,transfer_number,byte_index,cs_active,mosi_byte_hex,miso_byte_hex,clock_edges
+2026-07-13 08:17:58,1,0,True,0x01,0xAA,16
+2026-07-13 08:17:58,1,1,True,0x02,0xBB,16
+2026-07-13 08:17:58,1,2,True,0x03,0xCC,16
+2026-07-13 08:17:58,2,0,True,0x10,0xAA,16
+2026-07-13 08:17:58,2,1,True,0x20,0xBB,16
